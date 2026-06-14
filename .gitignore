@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+frontend/node_modules/
+frontend/.next/
+dist/
+build/
+
+*.db
+*.sqlite
+*.log
+.env
